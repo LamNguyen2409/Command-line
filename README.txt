@@ -16,13 +16,23 @@ Fa folder includes So folder
 How to directory to So from Fa : cd [Son folder]
 How to back go out to father folder : cd ..
 
-#Exercise 6:
-#Exercise 7:
-#Exercise 8:
-#Exercise 9:
-#Exercise 10:
-#Exercise 11:
-#Exercise 12:
-#Exercise 13:
-#Exercise 14:
-#Exercise 15:
+#Exercise 6:List Directory (ls)
+List all files and folders under currently folder
+
+#Exercise 7:Remove Directory(rmdir)
+
+#Exercise 8:Moving Around (pushd, popd)
+
+#Exercise 9:Making empty files (Touch, New-Item)
+
+#Exercise 10:Copy a file (cp)
+
+#Exercise 11: Moving a file (mv)
+
+#Exercise 12:View a file ( MORE)
+
+#Exercise 13:Stream a file (cat)
+
+#Exercise 14: Remove a file (rm)
+
+#Exercise 15:Exiting Your Terminal (Exit)
